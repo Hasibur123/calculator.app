@@ -1,0 +1,11 @@
+.nav {
+    width: 90vw;
+    margin: auto;
+    
+  }
+  .nav h1 {
+    text-shadow: 2px 2px black;
+    color: white;
+    text-align: center;
+  }
+  
